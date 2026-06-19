@@ -1,4 +1,4 @@
-# getNode
+# Free-Node
 ## 简介
 > 获取节点信息,合并各大仓库及网络相关免费节点信息。
 - 每个小时获取1次最新的节点信息
@@ -10,6 +10,13 @@
 - v2ray源地址：https://raw.githubusercontent.com/a2470982985/getNode/main/v2ray.txt
 - v2ray加速地址1：https://ghproxy.com/https://raw.githubusercontent.com/a2470982985/getNode/main/v2ray.txt
 - v2ray加速地址2：https://cdn.jsdelivr.net/gh/a2470982985/getNode@main/v2ray.txt
+
+## 支持
+
+本项目 CDN 加速及安全防护由 Tencent EdgeOne 赞助：EdgeOne 提供长期有效的免费套餐，包含不限量的流量和请求，覆盖中国大陆节点，且无任何超额收费，感兴趣的朋友可以去 EdgeOne 官网获取
+![34fe3a45-492d-4ea4-ae5d-ea1087ca7b4b](https://github.com/user-attachments/assets/d2e319f8-c6b7-4d6a-82fa-a73e783d257b)
+[亚洲最佳CDN、边缘和安全解决方案 - Tencent EdgeOne](https://edgeone.ai/zh?from=github)
+
 ## 工具推荐
 
 > 加粗字体为推荐使用
